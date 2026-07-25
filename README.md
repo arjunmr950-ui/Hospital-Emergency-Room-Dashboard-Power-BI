@@ -48,7 +48,7 @@ Hospitals generate thousands of patient records every month, making it difficult
 ### Executive Overview
 Provides a high-level summary of emergency room performance, including total patients, waiting time, patient satisfaction, admission status, and monthly trends.
 
-![Dashboard Overview](Screenshot1.png)
+![Dashboard Overview](Screenshot 2026-07-26 000211.png)
 
 ---
 
