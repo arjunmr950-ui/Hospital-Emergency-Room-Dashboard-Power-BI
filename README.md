@@ -62,7 +62,7 @@ Analyzes patient distribution by age, gender, race, and attendance patterns to i
 ### Operational Insights
 Displays department referrals, admission outcomes, and waiting time analysis to support efficient emergency room operations.
 
-![Operational Dashboard](Screenshot%202026-07-26%20000236.png)
+![Operational Dashboard](Screenshot%202026-07-26%20000247.png)
 
 ---
 
