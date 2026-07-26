@@ -69,6 +69,7 @@ Displays department referrals, admission outcomes, and waiting time analysis to 
 ## 📂 Dataset
 The project uses a hospital emergency room dataset containing **9,216 patient records**. The dataset includes patient demographics, admission details, waiting times, satisfaction scores, referral departments, and visit information, serving as the foundation for data transformation, analysis, and visualization.
 
+![Dataset](Screenshot%202026-07-26%20000150.png)
 ---
 
 ## 💼 Skills Demonstrated
