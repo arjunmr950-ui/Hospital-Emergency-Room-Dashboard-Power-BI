@@ -55,14 +55,14 @@ Provides a high-level summary of emergency room performance, including total pat
 ### Patient Demographics
 Analyzes patient distribution by age, gender, race, and attendance patterns to identify demographic trends and healthcare demand.
 
-![Patient Analysis](Screenshot2.png)
+![Patient Analysis](Screenshot%202026-07-26%20000225.png)
 
 ---
 
 ### Operational Insights
 Displays department referrals, admission outcomes, and waiting time analysis to support efficient emergency room operations.
 
-![Operational Dashboard](Screenshot3.png)
+![Operational Dashboard](Screenshot%202026-07-26%20000236.png)
 
 ---
 
