@@ -59,11 +59,10 @@ Analyzes patient distribution by age, gender, race, and attendance patterns to i
 
 ---
 
-### Operational Insights
-Displays department referrals, admission outcomes, and waiting time analysis to support efficient emergency room operations.
+### Project Analysis
+This dashboard presents a comprehensive analysis of hospital emergency room performance by examining patient waiting times, department referrals, admission outcomes, and overall service efficiency. It enables stakeholders to identify operational trends, uncover performance bottlenecks, optimize resource allocation, and support data-driven decision-making through interactive visualizations.
 
-![Operational Dashboard](Screenshot%202026-07-26%20000247.png)
-
+![Project Analysis](Screenshot%202026-07-26%20000247.png)
 ---
 
 ## 📂 Dataset
